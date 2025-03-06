@@ -43,6 +43,7 @@ I'm currently working on:
 ## ✉️ Contact: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grzeglos)
 
-> We cannot afford prudence. Prudence is a weakness that will doom us to perish in the shadows of history.
+> "We cannot afford prudence. Prudence is a weakness that will doom us to perish in the shadows of history." 
+> —  Badeni, *Chikyuu no Undou ni Tsuite*
 
 
